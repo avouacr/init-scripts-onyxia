@@ -6,3 +6,5 @@ git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/helm-charts-a
 git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/helm-charts-databases.git
 git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/helm-charts.git
 git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/www.sspcloud.fr.git
+git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/docs.sspcloud.fr.git
+git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/paris-sspcloud.git
