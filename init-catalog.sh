@@ -9,3 +9,6 @@ git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/helm-charts-d
 git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/helm-charts-datavisualization.git
 git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/helm-charts.git
 git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/InseeFrLab/helm-charts-dev.git
+
+# Other
+git clone https://$GIT_PERSONAL_ACCESS_TOKEN@github.com/avouacr/init-scripts-onyxia.git
